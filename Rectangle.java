@@ -6,5 +6,9 @@ public class Rectangle {
         this.length = length;
         this.width = width;
     }
+    
+    public double getArea() {
+    	return this.length * this.width;
+    }
 
 }
