@@ -11,4 +11,8 @@ public class Rectangle {
     	return this.length * this.width;
     }
 
+    public double getPermieter(){
+        return 2 * (length + width);
+    }
+
 }
