@@ -7,4 +7,8 @@ public class Rectangle {
         this.width = width;
     }
 
+    public double getPermieter(){
+        return 2 * (length + width);
+    }
+
 }
