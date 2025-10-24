@@ -19,6 +19,6 @@ public class Trapezoid {
 	}
 	
 	public double getArea() {
-		return ((this.long_base + this.short_base) * h) / 2;
+		return ((this.long_base + this.short_base) * this.height) / 2;
 	}
 }
