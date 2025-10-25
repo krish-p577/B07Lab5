@@ -1,6 +1,0 @@
-
-# Commit type:
-
-# Changes made:
-
-
